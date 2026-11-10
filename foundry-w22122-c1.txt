@@ -1,0 +1,1 @@
+classic, strict with no required check, enforce_admins on: first
