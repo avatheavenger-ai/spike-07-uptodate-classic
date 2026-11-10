@@ -1,0 +1,1 @@
+classic, strict + foundry/fingerprint, enforce_admins off (default): first
